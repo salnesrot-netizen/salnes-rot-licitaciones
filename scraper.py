@@ -1,35 +1,203 @@
-import requests, json, re
+import requests
+import json
+import re
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
+from datetime import datetime
 from urllib.parse import urljoin
 
-URL="https://contratacion.aena.es/contratacion/principal?portal=licitaciones"
-HEAD={"User-Agent":"Mozilla/5.0 SALNES-ROT-Licitaciones/1.0"}
-def clean(x): return re.sub(r"\s+"," ",x or "").strip()
-def main():
-    r=requests.get(URL,headers=HEAD,timeout=40); r.raise_for_status()
-    s=BeautifulSoup(r.text,"html.parser"); items=[]
-    tables=s.find_all("table")
-    target=None
-    for t in tables:
-        txt=clean(t.get_text(" ",strip=True)).lower()
-        if "ccmayor" in txt and "fecha límite" in txt and "título" in txt:
-            target=t; break
-    if not target: raise RuntimeError("No se encontró la tabla de licitaciones de AENA")
-    for tr in target.find_all("tr"):
-        cells=tr.find_all(["td","th"])
-        if len(cells)<8 or tr.find("th"): continue
-        vals=[clean(c.get_text(" ",strip=True)) for c in cells]
-        links=tr.find_all("a",href=True)
-        info=""
-        for a in links:
-            if "infoexp" in a["href"]: info=urljoin(URL,a["href"]); break
-        # Columnas oficiales: publicación, expediente, título, destino, bruto, neto, valor estimado, límite, info
-        if len(vals)>=8 and re.search(r"\d+/\d{4}",vals[1]):
-            items.append({"published":vals[0],"id":vals[1],"title":vals[2],"place":vals[3],
-                          "gross":vals[4],"amount":vals[5],"estimated":vals[6],"deadline":vals[7],
-                          "url":info or URL,"source":"AENA"})
-    out={"updated":datetime.now().astimezone().strftime("%d/%m/%Y %H:%M"),"source":URL,"items":items}
-    with open("data.json","w",encoding="utf-8") as f: json.dump(out,f,ensure_ascii=False,indent=2)
-    print("AENA:",len(items),"licitaciones")
-if __name__=="__main__": main()
+URL = "https://contratacion.aena.es/contratacion/principal?portal=licitaciones"
+
+CABECERA = {
+    "User-Agent": "Mozilla/5.0 SALNES-ROT-Licitaciones/1.0"
+}
+
+# Palabras relacionadas directamente con trabajos que puede realizar SALNES ROT
+PALABRAS_INTERES = [
+    "rotulacion",
+    "rotulación",
+    "rotulo",
+    "rótulo",
+    "rotulos",
+    "rótulos",
+    "señaletica",
+    "señalética",
+    "señalizacion",
+    "señalización",
+    "señales",
+    "carteleria",
+    "cartelería",
+    "cartel",
+    "carteles",
+    "vinilo",
+    "vinilos",
+    "impresion",
+    "impresión",
+    "impresion digital",
+    "grafica",
+    "gráfica",
+    "graficas",
+    "gráficas",
+    "imagen corporativa",
+    "imagen grafica",
+    "imagen gráfica",
+    "letras corporeas",
+    "letras corpóreas",
+    "corporeas",
+    "corpóreas",
+    "pictograma",
+    "pictogramas",
+    "directorios",
+    "placas",
+    "placa",
+    "panel",
+    "paneles",
+    "lonas",
+    "lona",
+    "metacrilato",
+    "aluminio compuesto",
+    "revestimiento",
+    "publicidad",
+    "soportes graficos",
+    "soportes gráficos",
+    "elementos graficos",
+    "elementos gráficos",
+    "serigrafia",
+    "serigrafía"
+]
+
+
+def es_recomendada(texto):
+    texto = texto.lower()
+    return any(palabra.lower() in texto for palabra in PALABRAS_INTERES)
+
+
+def limpiar(texto):
+    return re.sub(r"\s+", " ", texto or "").strip()
+
+
+def principal():
+    respuesta = requests.get(
+        URL,
+        headers=CABECERA,
+        timeout=40
+    )
+    respuesta.raise_for_status()
+
+    soup = BeautifulSoup(respuesta.text, "html.parser")
+
+    tablas = soup.find_all("table")
+    tabla_objetivo = None
+
+    for tabla in tablas:
+        texto = limpiar(tabla.get_text(" ", strip=True)).lower()
+
+        if "expediente" in texto and (
+            "fecha límite" in texto
+            or "fecha limite" in texto
+            or "título" in texto
+            or "titulo" in texto
+        ):
+            tabla_objetivo = tabla
+            break
+
+    if tabla_objetivo is None:
+        raise RuntimeError(
+            "No se encontró la tabla de licitaciones de AENA"
+        )
+
+    elementos = []
+
+    for fila in tabla_objetivo.find_all("tr"):
+        celdas = fila.find_all(["td", "th"])
+
+        if len(celdas) < 4:
+            continue
+
+        valores = [
+            limpiar(celda.get_text(" ", strip=True))
+            for celda in celdas
+        ]
+
+        texto_fila = " | ".join(valores)
+
+        if "expediente" in texto_fila.lower():
+            continue
+
+        enlace = fila.find("a", href=True)
+
+        url = ""
+        if enlace:
+            url = urljoin(URL, enlace.get("href"))
+
+        # Adaptación a la estructura actual de la tabla de AENA
+        identificacion = valores[0] if len(valores) > 0 else ""
+        titulo = valores[1] if len(valores) > 1 else ""
+        lugar = valores[2] if len(valores) > 2 else ""
+        cantidad = valores[3] if len(valores) > 3 else ""
+        estimado = valores[4] if len(valores) > 4 else ""
+        fecha_limite = valores[-1] if valores else ""
+
+        texto_interes = " ".join([
+            identificacion,
+            titulo,
+            lugar,
+            texto_fila
+        ])
+
+        recomendado = es_recomendada(texto_interes)
+
+        elementos.append({
+            "identificacion": identificacion,
+            "titulo": titulo,
+            "lugar": lugar,
+            "cantidad": cantidad,
+            "estimado": estimado,
+            "fecha_limite": fecha_limite,
+            "url": url,
+            "fuente": "AENA",
+            "recomendada": recomendado
+        })
+
+    # Evitar duplicados
+    unicos = []
+    vistos = set()
+
+    for elemento in elementos:
+        clave = (
+            elemento["identificacion"],
+            elemento["titulo"],
+            elemento["url"]
+        )
+
+        if clave not in vistos:
+            vistos.add(clave)
+            unicos.append(elemento)
+
+    resultado = {
+        "actualizado": datetime.now().strftime("%d/%m/%Y %H:%M"),
+        "fuente": URL,
+        "total": len(unicos),
+        "recomendadas": sum(
+            1 for elemento in unicos
+            if elemento["recomendada"]
+        ),
+        "elementos": unicos
+    }
+
+    with open("datos.json", "w", encoding="utf-8") as archivo:
+        json.dump(
+            resultado,
+            archivo,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    print(
+        f"Actualización terminada: "
+        f"{len(unicos)} licitaciones / "
+        f"{resultado['recomendadas']} recomendadas"
+    )
+
+
+if _name_ == "_main_":
+    principal()
