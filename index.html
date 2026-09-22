@@ -1,12 +1,324 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>SALNÉS ROT · Licitaciones</title><style>
-:root{--y:#ffd400;--k:#111}*{box-sizing:border-box}body{margin:0;font:14px Arial;background:#f4f5f6;color:#111}header{background:#111;color:white;border-bottom:6px solid var(--y);padding:18px 22px}.w{max-width:1450px;margin:auto;padding:16px}.bar,.stats{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:12px}.btn{padding:11px 14px;border-radius:8px;border:1px solid #ccc;background:#fff;color:#111;text-decoration:none;font-weight:700}.yellow{background:var(--y);border-color:var(--y)}.card{background:white;border:1px solid #ddd;border-radius:12px;padding:14px}.stat{min-width:160px}.stat b{font-size:21px;display:block}.small{font-size:12px;color:#666}.filters{display:grid;grid-template-columns:2fr 1fr 1fr;gap:9px;margin-bottom:12px}input,select{padding:10px;border:1px solid #ccc;border-radius:8px;width:100%}table{width:100%;border-collapse:collapse;background:white}th{background:#111;color:#fff;text-align:left;padding:10px}td{padding:10px;border-bottom:1px solid #eee;vertical-align:top}.tag{display:inline-block;padding:4px 7px;border-radius:12px;font-size:11px;font-weight:700;background:#fff0a6}.aena{background:#dbeafe}.empty{text-align:center;padding:35px;color:#666}@media(max-width:800px){.filters{grid-template-columns:1fr}.scroll{overflow:auto}table{min-width:1050px}}</style></head>
-<body><header><h1 style="margin:0">SALNÉS ROT · BUSCADOR DE LICITACIONES</h1><div>AENA · actualización automática diaria</div></header><div class="w">
-<div class="bar"><a class="btn yellow" href="https://contratacion.aena.es/contratacion/principal?portal=licitaciones" target="_blank">AENA OFICIAL</a><a class="btn" href="https://contrataciondelsectorpublico.gob.es/wps/portal/inicio" target="_blank">PLACSP</a><a class="btn" href="https://elicita.aena.es/SLE_Internet" target="_blank">ELICITA</a></div>
-<div class="stats"><div class="card stat"><span class="small">Licitaciones AENA</span><b id=n>0</b></div><div class="card stat"><span class="small">Recomendadas</span><b id=nr>0</b></div><div class="card stat"><span class="small">Última actualización</span><b id=up style="font-size:14px">—</b></div></div>
-<div class="card filters"><input id=q placeholder="Buscar: vinilo, señalética, impresión..." oninput=render()><select id=f onchange=render()><option value="">Todas</option><option value="rec">Recomendadas SALNÉS ROT</option></select><select id=s onchange=render()><option value="">Cualquier destino</option><option value="gal">Galicia</option><option value="mad">Madrid</option></select></div>
-<div class="card scroll" style="padding:0"><table><thead><tr><th>Interés</th><th>Expediente / objeto</th><th>Destino</th><th>Importe neto</th><th>Publicación</th><th>Fecha límite</th><th>Expediente</th></tr></thead><tbody id=rows><tr><td colspan=7 class=empty>Cargando datos…</td></tr></tbody></table></div></div>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SALNÉS ROT · Licitaciones</title>
+
+<style>
+*{box-sizing:border-box}
+body{margin:0;font:14px Arial;background:#f4f5f6;color:#111}
+header{background:#111;color:white;border-bottom:5px solid #ffb000;padding:18px 5%}
+header h1{margin:0;font-size:24px}
+header small{color:#ccc}
+
+.wrap{width:92%;margin:20px auto}
+
+.botones{margin-bottom:18px}
+.btn{
+display:inline-block;
+padding:10px 15px;
+margin-right:8px;
+border-radius:6px;
+text-decoration:none;
+font-weight:bold;
+background:#ddd;
+color:#111
+}
+.btn.aena{background:#ffb000}
+
+.stats{
+display:flex;
+gap:12px;
+margin-bottom:16px;
+flex-wrap:wrap
+}
+.stat{
+background:white;
+border:1px solid #ddd;
+border-radius:8px;
+padding:12px 16px;
+min-width:150px
+}
+.stat span{
+display:block;
+font-size:12px;
+color:#666
+}
+.stat b{
+font-size:20px
+}
+
+.filtros{
+display:grid;
+grid-template-columns:2fr 1fr 1fr;
+gap:10px;
+margin-bottom:15px
+}
+input,select{
+padding:11px;
+border:1px solid #ccc;
+border-radius:6px;
+background:white
+}
+
+.tabla{
+background:white;
+border:1px solid #ddd;
+overflow:auto
+}
+table{
+width:100%;
+border-collapse:collapse;
+min-width:1000px
+}
+th{
+background:#222;
+color:white;
+text-align:left;
+padding:10px
+}
+td{
+padding:10px;
+border-bottom:1px solid #ddd;
+vertical-align:top
+}
+tr:hover{background:#fafafa}
+
+.alta{
+background:#fff1cc;
+font-weight:bold
+}
+.media{
+background:#fffbea
+}
+
+.etiqueta{
+display:inline-block;
+padding:4px 7px;
+border-radius:5px;
+font-size:11px;
+font-weight:bold
+}
+.etiqueta.alta{background:#ffb000}
+.etiqueta.media{background:#ffe69a}
+.etiqueta.baja{background:#eee;color:#666}
+
+a.abrir{
+font-weight:bold;
+color:#1557b0;
+text-decoration:none
+}
+
+@media(max-width:800px){
+.filtros{grid-template-columns:1fr}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>SALNÉS ROT · BUSCADOR DE LICITACIONES</h1>
+<small>AENA · actualización automática diaria</small>
+</header>
+
+<div class="wrap">
+
+<div class="botones">
+<a class="btn aena" href="https://contratacion.aena.es/contratacion/principal?portal=licitaciones" target="_blank">AENA OFICIAL</a>
+<span class="btn">PLACSP</span>
+<span class="btn">ELICITA</span>
+</div>
+
+<div class="stats">
+<div class="stat">
+<span>Licitaciones AENA</span>
+<b id="total">0</b>
+</div>
+
+<div class="stat">
+<span>Recomendadas</span>
+<b id="recomendadas">0</b>
+</div>
+
+<div class="stat">
+<span>Prioridad alta</span>
+<b id="altas">0</b>
+</div>
+
+<div class="stat">
+<span>Prioridad media</span>
+<b id="medias">0</b>
+</div>
+
+<div class="stat">
+<span>Última actualización</span>
+<b id="actualizado" style="font-size:13px">—</b>
+</div>
+</div>
+
+<div class="filtros">
+<input id="buscar" placeholder="Buscar: vinilo, señalética, impresión, aeropuerto...">
+
+<select id="prioridad">
+<option value="">Todas las prioridades</option>
+<option value="ALTA">Prioridad ALTA</option>
+<option value="MEDIA">Prioridad MEDIA</option>
+<option value="BAJA">Prioridad BAJA</option>
+</select>
+
+<select id="destino">
+<option value="">Cualquier destino</option>
+</select>
+</div>
+
+<div class="tabla">
+<table>
+<thead>
+<tr>
+<th>Interés</th>
+<th>Expediente / objeto</th>
+<th>Destino</th>
+<th>Importe</th>
+<th>Fecha límite</th>
+<th>Expediente</th>
+</tr>
+</thead>
+<tbody id="resultados">
+<tr><td colspan="6">Cargando licitaciones...</td></tr>
+</tbody>
+</table>
+</div>
+
+</div>
+
 <script>
-let D=[];const K=['rotul','señal','cartel','vinil','impres','corporea','corpórea','placa','lona','pictograma','fotolumin','metacril','alupanel','serigraf','dtf','material promocional','vestuario laboral','ropa laboral','imagen corporativa'];const N=x=>(x||'').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');const T=x=>N(JSON.stringify(x));const rec=x=>K.some(k=>T(x).includes(N(k)));function render(){let z=N(q.value),ff=f.value,ss=s.value;let a=D.filter(x=>(!z||T(x).includes(z))&&(!ff||rec(x))&&(!ss||(ss==='gal'&&/(vigo|santiago|coru|galicia)/.test(T(x)))||(ss==='mad'&&/madrid|barajas/.test(T(x)))));n.textContent=a.length;nr.textContent=D.filter(rec).length;rows.innerHTML=a.length?a.map(x=>`<tr><td>${rec(x)?'<span class=tag>RECOMENDADA</span>':''}</td><td><b>${x.id||''}</b><br>${x.title||''}</td><td>${x.place||''}</td><td>${x.amount||'—'}</td><td>${x.published||'—'}</td><td>${x.deadline||'—'}</td><td>${x.url?`<a target=_blank href="${x.url}">Abrir</a>`:'—'}</td></tr>`).join(''):'<tr><td colspan=7 class=empty>Sin resultados.</td></tr>'}
-fetch('datos.json?'+Date.now()).then(r=>r.json()).then(o=>{D=o.items||[];up.textContent=o.updated||'—';render()}).catch(()=>{rows.innerHTML='<tr><td colspan=7 class=empty>Aún no se ha ejecutado la primera actualización.</td></tr>'})
-</script></body></html>
+let datos = [];
+
+function texto(v){
+return (v ?? "").toString();
+}
+
+function normalizar(v){
+return texto(v)
+.normalize("NFD")
+.replace(/[\u0300-\u036f]/g,"")
+.toLowerCase();
+}
+
+function prioridadDe(x){
+return texto(x.prioridad || (x.recomendada ? "MEDIA" : "BAJA")).toUpperCase();
+}
+
+function pintar(){
+const q = normalizar(document.getElementById("buscar").value);
+const p = document.getElementById("prioridad").value;
+const d = document.getElementById("destino").value;
+
+let lista = datos.filter(x=>{
+const contenido = normalizar(
+texto(x.identificacion)+" "+
+texto(x.titulo)+" "+
+texto(x.lugar)+" "+
+texto(x.coincidencias)
+);
+
+const coincideTexto = !q || contenido.includes(q);
+const coincidePrioridad = !p || prioridadDe(x) === p;
+const coincideDestino = !d || texto(x.lugar) === d;
+
+return coincideTexto && coincidePrioridad && coincideDestino;
+});
+
+lista.sort((a,b)=>{
+const orden={ALTA:3,MEDIA:2,BAJA:1};
+return (orden[prioridadDe(b)]||0)-(orden[prioridadDe(a)]||0);
+});
+
+const tbody=document.getElementById("resultados");
+
+if(!lista.length){
+tbody.innerHTML='<tr><td colspan="6" style="text-align:center;padding:30px">Sin resultados.</td></tr>';
+return;
+}
+
+tbody.innerHTML=lista.map(x=>{
+const pr=prioridadDe(x);
+const clase=pr==="ALTA"?"alta":pr==="MEDIA"?"media":"";
+
+return `
+<tr class="${clase}">
+<td><span class="etiqueta ${pr.toLowerCase()}">${pr}</span></td>
+
+<td>
+<b>${texto(x.identificacion)}</b><br>
+${texto(x.titulo)}
+</td>
+
+<td>${texto(x.lugar)}</td>
+
+<td>${texto(x.estimado || x.cantidad || "—")}</td>
+
+<td>${texto(x.fecha_limite || "—")}</td>
+
+<td>
+${x.url ? `<a class="abrir" href="${x.url}" target="_blank">Abrir</a>` : "—"}
+</td>
+</tr>
+`;
+}).join("");
+}
+
+fetch("datos.json?v="+Date.now())
+.then(r=>{
+if(!r.ok) throw new Error("No se pudo cargar datos.json");
+return r.json();
+})
+.then(D=>{
+
+datos = Array.isArray(D.elementos) ? D.elementos : [];
+
+document.getElementById("total").textContent =
+D.total ?? datos.length;
+
+document.getElementById("recomendadas").textContent =
+D.recomendadas ?? datos.filter(x=>x.recomendada).length;
+
+document.getElementById("altas").textContent =
+D.prioridad_alta ?? datos.filter(x=>prioridadDe(x)==="ALTA").length;
+
+document.getElementById("medias").textContent =
+D.prioridad_media ?? datos.filter(x=>prioridadDe(x)==="MEDIA").length;
+
+document.getElementById("actualizado").textContent =
+D.actualizado || "—";
+
+const destinos=[...new Set(
+datos.map(x=>texto(x.lugar)).filter(Boolean)
+)].sort();
+
+const selector=document.getElementById("destino");
+
+destinos.forEach(d=>{
+const op=document.createElement("option");
+op.value=d;
+op.textContent=d;
+selector.appendChild(op);
+});
+
+pintar();
+})
+.catch(error=>{
+console.error(error);
+document.getElementById("resultados").innerHTML =
+'<tr><td colspan="6" style="text-align:center;padding:30px">Error cargando datos.json</td></tr>';
+});
+
+document.getElementById("buscar").addEventListener("input",pintar);
+document.getElementById("prioridad").addEventListener("change",pintar);
+document.getElementById("destino").addEventListener("change",pintar);
+</script>
+
+</body>
+</html>
