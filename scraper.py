@@ -385,10 +385,36 @@ def extraer_licitaciones(tabla, url_base, tipo):
             # corresponde al límite.
             fecha_limite = fechas[-1]
 
-        # Campos compatibles con la web actual.
-        lugar = ""
-        cantidad = ""
-        estimado = ""
+       # Intentar obtener lugar, importe y valor estimado
+lugar = ""
+cantidad = ""
+estimado = ""
+
+for valor in valores:
+    valor_limpio = limpiar(valor)
+
+    # Detectar importes en euros
+    if "€" in valor_limpio or "EUR" in valor_limpio.upper():
+        if not cantidad:
+            cantidad = valor_limpio
+        elif not estimado and valor_limpio != cantidad:
+            estimado = valor_limpio
+
+# Intentar detectar el lugar a partir de las columnas
+for valor in valores:
+    valor_limpio = limpiar(valor)
+
+    if (
+        valor_limpio
+        and valor_limpio != identificacion
+        and valor_limpio != titulo
+        and valor_limpio != cantidad
+        and valor_limpio != estimado
+        and valor_limpio != fecha_limite
+        and len(valor_limpio) < 100
+    ):
+        lugar = valor_limpio
+        break
 
         elementos.append(
             {
