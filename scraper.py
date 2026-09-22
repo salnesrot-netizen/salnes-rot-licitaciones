@@ -400,43 +400,43 @@ for valor in valores:
         elif not estimado and valor_limpio != cantidad:
             estimado = valor_limpio
 
-# Intentar detectar el lugar a partir de las columnas
-for valor in valores:
-    valor_limpio = limpiar(valor)
-
-    if (
-        valor_limpio
-        and valor_limpio != identificacion
-        and valor_limpio != titulo
-        and valor_limpio != cantidad
-        and valor_limpio != estimado
-        and valor_limpio != fecha_limite
-        and len(valor_limpio) < 100
-    ):
-        lugar = valor_limpio
-        break
-
-        elementos.append(
-            {
-                "identificacion": identificacion,
-                "titulo": titulo,
-                "lugar": lugar,
-                "cantidad": cantidad,
-                "estimado": estimado,
-                "fecha_limite": fecha_limite,
-                "url": url_licitacion,
-                "fuente": tipo,
-                "recomendada": prioridad in (
-                    "ALTA",
-                    "MEDIA",
-                ),
-                "prioridad": prioridad,
-                "puntuacion": puntuacion,
-                "coincidencias": coincidencias,
-            }
-        )
-
-    return elementos
+    # Intentar detectar el lugar a partir de las columnas
+    for valor in valores:
+        valor_limpio = limpiar(valor)
+    
+        if (
+            valor_limpio
+            and valor_limpio != identificacion
+            and valor_limpio != titulo
+            and valor_limpio != cantidad
+            and valor_limpio != estimado
+            and valor_limpio != fecha_limite
+            and len(valor_limpio) < 100
+        ):
+            lugar = valor_limpio
+            break
+    
+            elementos.append(
+                {
+                    "identificacion": identificacion,
+                    "titulo": titulo,
+                    "lugar": lugar,
+                    "cantidad": cantidad,
+                    "estimado": estimado,
+                    "fecha_limite": fecha_limite,
+                    "url": url_licitacion,
+                    "fuente": tipo,
+                    "recomendada": prioridad in (
+                        "ALTA",
+                        "MEDIA",
+                    ),
+                    "prioridad": prioridad,
+                    "puntuacion": puntuacion,
+                    "coincidencias": coincidencias,
+                }
+            )
+    
+        return elementos
 
 
 # =========================================================
