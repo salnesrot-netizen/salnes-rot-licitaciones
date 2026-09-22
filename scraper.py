@@ -199,5 +199,5 @@ def principal():
     )
 
 
-if _name_ == "__main__":
+if _name_ == "_main_":
     principal()
