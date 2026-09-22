@@ -52,4 +52,5 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Actualización automática de licitaciones"
 
-          git push
+         git pull --rebase origin main
+          git push origin main
