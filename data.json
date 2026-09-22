@@ -1,4 +1,186 @@
 {
-  "updated": "Pendiente de primera actualización",
-  "items": []
+  "updated": "22/09/2026 08:43",
+  "source": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
+  "items": [
+    {
+      "published": "22.09.2026 ( web )",
+      "id": "GRX-67/2026",
+      "title": "REFORMA DE LOCALES PARA NUEVO [...]",
+      "place": "APTO.GRANADA-JAÉN F.G.L.",
+      "gross": "242.552,16",
+      "amount": "200.456,33",
+      "estimated": "208.474,58",
+      "deadline": "02.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295859&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "22.09.2026 ( web )",
+      "id": "SPC-65/2026",
+      "title": "ACTUALIZACIÓN SISTEMA DE ALAR [...]",
+      "place": "APTO.LA PALMA",
+      "gross": "106.974,32",
+      "amount": "99.976,00",
+      "estimated": "99.976,00",
+      "deadline": "07.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295716&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "22.09.2026 ( web )",
+      "id": "TFS-70/2026",
+      "title": "SERVICIO DE VERIFICACIÓN DE R [...]",
+      "place": "APTO.TENERIFE SUR",
+      "gross": "99.082,00",
+      "amount": "92.600,00",
+      "estimated": "92.600,00",
+      "deadline": "06.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=7639140094&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "22.09.2026 ( web )",
+      "id": "TFS-80/2026",
+      "title": "ACTUACIONES DE MEJORA PARA CO [...]",
+      "place": "APTO.TENERIFE SUR",
+      "gross": "83.106,05",
+      "amount": "77.669,21",
+      "estimated": "77.669,21",
+      "deadline": "06.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=7639140291&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "22.09.2026 ( web )",
+      "id": "IBZ-116/2026",
+      "title": "REPOSICION RED DE RIEGO EN PA [...]",
+      "place": "APTO.IBIZA",
+      "gross": "90.737,90",
+      "amount": "74.990,00",
+      "estimated": "77.989,60",
+      "deadline": "02.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133830&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "21.09.2026 ( web )",
+      "id": "DIN-222/2026",
+      "title": "AT DE PM Y REDACCIÓN DE PROYE [...]",
+      "place": "VARIOS CENTROS",
+      "gross": "3.132.690,00",
+      "amount": "2.589.000,00",
+      "estimated": "3.106.800,00",
+      "deadline": "03.11.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610176656&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "21.09.2026 ( web )",
+      "id": "DIN-321/2026",
+      "title": "SERVICIO PARA LA INTERVENCIÓN [...]",
+      "place": "APTO.A.SUAREZ MAD-BARAJAS",
+      "gross": "2.420.000,00",
+      "amount": "2.000.000,00",
+      "estimated": "2.400.000,00",
+      "deadline": "20.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610178580&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "21.09.2026 ( web )",
+      "id": "DIN-117/2026",
+      "title": "AT DE PM Y REDAC PROYECTOS, D [...]",
+      "place": "VARIOS CENTROS",
+      "gross": "1.535.853,00",
+      "amount": "1.269.300,00",
+      "estimated": "1.523.160,00",
+      "deadline": "20.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610176738&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "21.09.2026 ( web )",
+      "id": "DIN-385/2026",
+      "title": "SERVICIO DE OBTENCIÓN DE DATO [...]",
+      "place": "VARIOS CENTROS",
+      "gross": "456.775,00",
+      "amount": "377.500,00",
+      "estimated": "1.132.500,00",
+      "deadline": "20.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179265&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "21.09.2026 ( web )",
+      "id": "BIO-73/2026",
+      "title": "ADECUACION DE SUPERFICIE PARA [...]",
+      "place": "APTO.BILBAO",
+      "gross": "232.769,09",
+      "amount": "192.371,15",
+      "estimated": "192.371,15",
+      "deadline": "13.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160581&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "21.09.2026 ( web )",
+      "id": "TFN-48/2026",
+      "title": "SUMINISTRO DE TORRES PORTATIL [...]",
+      "place": "APTO.TENERIFE NORTE",
+      "gross": "169.514,72",
+      "amount": "158.424,97",
+      "estimated": "158.424,97",
+      "deadline": "01.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=7639140133&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "21.09.2026 ( web )",
+      "id": "SCQ-56/2026",
+      "title": "SUMINISTRO DE PRODUCTOS QUÍMI [...]",
+      "place": "APTO.SANTIAGO",
+      "gross": "145.805,00",
+      "amount": "120.500,00",
+      "estimated": "120.500,00",
+      "deadline": "30.09.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160662&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "20.09.2026 ( web )",
+      "id": "DIN-225/2026",
+      "title": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
+      "place": "APTO.BILBAO",
+      "gross": "27.780.656,91",
+      "amount": "22.959.220,59",
+      "estimated": "27.551.064,71",
+      "deadline": "21.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610177842&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "20.09.2026 ( web )",
+      "id": "DIN-237/2026",
+      "title": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
+      "place": "APTO.VALENCIA",
+      "gross": "23.896.671,82",
+      "amount": "19.749.315,55",
+      "estimated": "23.699.178,66",
+      "deadline": "21.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610177622&tipoexp=400",
+      "source": "AENA"
+    },
+    {
+      "published": "18.09.2026 ( web )",
+      "id": "ALC-73/2026",
+      "title": "VALORACIÓN DEL ESTADO DEL ARB [...]",
+      "place": "APTO.ALICANTE-ELCHE",
+      "gross": "24.200,00",
+      "amount": "20.000,00",
+      "estimated": "20.000,00",
+      "deadline": "02.10.2026",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9630109237&tipoexp=400",
+      "source": "AENA"
+    }
+  ]
 }
