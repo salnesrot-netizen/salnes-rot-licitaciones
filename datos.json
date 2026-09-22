@@ -1,0 +1,184 @@
+{
+  "actualizado": "22/09/2026 11:24",
+  "fuente": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
+  "total": 16,
+  "recomendadas": 0,
+  "elementos": [
+    {
+      "identificacion": "Fecha Publicación",
+      "titulo": "Fecha Publicación",
+      "lugar": "Título",
+      "cantidad": "Destino",
+      "estimado": "Importe bruto licitado(€)",
+      "fecha_limite": "Más info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones&campo=314",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "22.09.2026 ( web )",
+      "titulo": "REFORMA DE LOCALES PARA NUEVO [...]",
+      "lugar": "REFORMA DE LOCALES PARA NUEVO [...]",
+      "cantidad": "APTO.GRANADA-JAÉN F.G.L.",
+      "estimado": "242.552,16",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295859&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "22.09.2026 ( web )",
+      "titulo": "ACTUALIZACIÓN SISTEMA DE ALAR [...]",
+      "lugar": "ACTUALIZACIÓN SISTEMA DE ALAR [...]",
+      "cantidad": "APTO.LA PALMA",
+      "estimado": "106.974,32",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295716&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "22.09.2026 ( web )",
+      "titulo": "SERVICIO DE VERIFICACIÓN DE R [...]",
+      "lugar": "SERVICIO DE VERIFICACIÓN DE R [...]",
+      "cantidad": "APTO.TENERIFE SUR",
+      "estimado": "99.082,00",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=7639140094&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "22.09.2026 ( web )",
+      "titulo": "ACTUACIONES DE MEJORA PARA CO [...]",
+      "lugar": "ACTUACIONES DE MEJORA PARA CO [...]",
+      "cantidad": "APTO.TENERIFE SUR",
+      "estimado": "83.106,05",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=7639140291&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "22.09.2026 ( web )",
+      "titulo": "REPOSICION RED DE RIEGO EN PA [...]",
+      "lugar": "REPOSICION RED DE RIEGO EN PA [...]",
+      "cantidad": "APTO.IBIZA",
+      "estimado": "90.737,90",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133830&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "21.09.2026 ( web )",
+      "titulo": "AT DE PM Y REDACCIÓN DE PROYE [...]",
+      "lugar": "AT DE PM Y REDACCIÓN DE PROYE [...]",
+      "cantidad": "VARIOS CENTROS",
+      "estimado": "3.132.690,00",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610176656&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "21.09.2026 ( web )",
+      "titulo": "SERVICIO PARA LA INTERVENCIÓN [...]",
+      "lugar": "SERVICIO PARA LA INTERVENCIÓN [...]",
+      "cantidad": "APTO.A.SUAREZ MAD-BARAJAS",
+      "estimado": "2.420.000,00",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610178580&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "21.09.2026 ( web )",
+      "titulo": "AT DE PM Y REDAC PROYECTOS, D [...]",
+      "lugar": "AT DE PM Y REDAC PROYECTOS, D [...]",
+      "cantidad": "VARIOS CENTROS",
+      "estimado": "1.535.853,00",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610176738&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "21.09.2026 ( web )",
+      "titulo": "SERVICIO DE OBTENCIÓN DE DATO [...]",
+      "lugar": "SERVICIO DE OBTENCIÓN DE DATO [...]",
+      "cantidad": "VARIOS CENTROS",
+      "estimado": "456.775,00",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179265&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "21.09.2026 ( web )",
+      "titulo": "ADECUACION DE SUPERFICIE PARA [...]",
+      "lugar": "ADECUACION DE SUPERFICIE PARA [...]",
+      "cantidad": "APTO.BILBAO",
+      "estimado": "232.769,09",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160581&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "21.09.2026 ( web )",
+      "titulo": "SUMINISTRO DE TORRES PORTATIL [...]",
+      "lugar": "SUMINISTRO DE TORRES PORTATIL [...]",
+      "cantidad": "APTO.TENERIFE NORTE",
+      "estimado": "169.514,72",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=7639140133&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "21.09.2026 ( web )",
+      "titulo": "SUMINISTRO DE PRODUCTOS QUÍMI [...]",
+      "lugar": "SUMINISTRO DE PRODUCTOS QUÍMI [...]",
+      "cantidad": "APTO.SANTIAGO",
+      "estimado": "145.805,00",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160662&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "20.09.2026 ( web )",
+      "titulo": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
+      "lugar": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
+      "cantidad": "APTO.BILBAO",
+      "estimado": "27.780.656,91",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610177842&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "20.09.2026 ( web )",
+      "titulo": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
+      "lugar": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
+      "cantidad": "APTO.VALENCIA",
+      "estimado": "23.896.671,82",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610177622&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    },
+    {
+      "identificacion": "18.09.2026 ( web )",
+      "titulo": "VALORACIÓN DEL ESTADO DEL ARB [...]",
+      "lugar": "VALORACIÓN DEL ESTADO DEL ARB [...]",
+      "cantidad": "APTO.ALICANTE-ELCHE",
+      "estimado": "24.200,00",
+      "fecha_limite": "Info",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9630109237&tipoexp=400",
+      "fuente": "AENA",
+      "recomendada": false
+    }
+  ]
+}
