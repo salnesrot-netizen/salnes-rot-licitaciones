@@ -1,7 +1,7 @@
 {
-  "actualizado": "22/09/2026 11:40",
+  "actualizado": "23/09/2026 07:17",
   "fuente": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
-  "total": 158,
+  "total": 161,
   "recomendadas": 11,
   "prioridad_alta": 1,
   "prioridad_media": 10,
@@ -9,7 +9,7 @@
     {
       "identificacion": "IBZ-106/2026",
       "titulo": "ACONDICIONAMIENTO SEÑALETICA [...]",
-      "lugar": "",
+      "lugar": "11.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -26,7 +26,7 @@
     {
       "identificacion": "DIN-285/2026",
       "titulo": "EQUIPAMIENTO Y MOBILIARIO NUE [...]",
-      "lugar": "",
+      "lugar": "11.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -43,7 +43,7 @@
     {
       "identificacion": "BIO-73/2026",
       "titulo": "ADECUACION DE SUPERFICIE PARA [...]",
-      "lugar": "",
+      "lugar": "21.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -59,7 +59,7 @@
     {
       "identificacion": "PMI-60/2026",
       "titulo": "ADECUACIÓN ACOMETIDAS ELÉCTRI [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -75,7 +75,7 @@
     {
       "identificacion": "BIO-12/2024",
       "titulo": "ADECUACIÓN DEL CONTROL DE PAS [...]",
-      "lugar": "",
+      "lugar": "09.02.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -91,7 +91,7 @@
     {
       "identificacion": "DIN-331/2026",
       "titulo": "ADECUACIÓN DEL PAVIMENTO Y AM [...]",
-      "lugar": "",
+      "lugar": "10.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -107,7 +107,7 @@
     {
       "identificacion": "DIN-329/2026",
       "titulo": "REFORMA DE LA DÁRSENA DE AUTO [...]",
-      "lugar": "",
+      "lugar": "10.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -123,7 +123,7 @@
     {
       "identificacion": "GRX-67/2026",
       "titulo": "REFORMA DE LOCALES PARA NUEVO [...]",
-      "lugar": "",
+      "lugar": "22.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -139,7 +139,7 @@
     {
       "identificacion": "BIO-76/2026",
       "titulo": "REMODELACION DE OFICINAS TAPU [...]",
-      "lugar": "",
+      "lugar": "09.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -155,7 +155,7 @@
     {
       "identificacion": "DTC-174/2026",
       "titulo": "REMODELACIÓN DEL CPD DE T3 EN [...]",
-      "lugar": "",
+      "lugar": "07.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -171,7 +171,7 @@
     {
       "identificacion": "BIO-67/2026",
       "titulo": "REMODELACIÓN SALA VIP",
-      "lugar": "",
+      "lugar": "17.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -187,7 +187,7 @@
     {
       "identificacion": "GRX-85/2026",
       "titulo": "INSTALACIÓN DE EQUIPAMIENTO P [...]",
-      "lugar": "",
+      "lugar": "16.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -201,25 +201,9 @@
       ]
     },
     {
-      "identificacion": "TFS-60/2026",
-      "titulo": "REPARACIÓN DE CARPINTERÍA Y V [...]",
-      "lugar": "",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=7639139896&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 15,
-      "coincidencias": [
-        "carpinteria"
-      ]
-    },
-    {
       "identificacion": "MAD-25/2025",
       "titulo": "ACTUACIONES ADICIONALES PARA [...]",
-      "lugar": "",
+      "lugar": "06.03.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -233,7 +217,7 @@
     {
       "identificacion": "TFS-80/2026",
       "titulo": "ACTUACIONES DE MEJORA PARA CO [...]",
-      "lugar": "",
+      "lugar": "22.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -247,7 +231,7 @@
     {
       "identificacion": "DIN-237/2022",
       "titulo": "ACTUACIONES EN PAVIMENTO EN R [...]",
-      "lugar": "",
+      "lugar": "19.07.2022 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -261,7 +245,7 @@
     {
       "identificacion": "PMI-77/2026",
       "titulo": "ACTUACIONES PARA LA INSTALACI [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -275,7 +259,7 @@
     {
       "identificacion": "DSA-335/2026",
       "titulo": "ACTUALIZACIÓN ALGORITMO G1 EQ [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -289,7 +273,7 @@
     {
       "identificacion": "DSA-336/2026",
       "titulo": "ACTUALIZACIÓN ALGORITMO G1 EQ [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -303,7 +287,7 @@
     {
       "identificacion": "DSA-334/2026",
       "titulo": "ACTUALIZACIÓN ALGORITMO G1 EQ [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -317,7 +301,7 @@
     {
       "identificacion": "SPC-65/2026",
       "titulo": "ACTUALIZACIÓN SISTEMA DE ALAR [...]",
-      "lugar": "",
+      "lugar": "22.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -331,7 +315,7 @@
     {
       "identificacion": "SGC-108/2026",
       "titulo": "ACUERDO MARCO DE SERVICIOS DE [...]",
-      "lugar": "",
+      "lugar": "28.04.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -345,7 +329,7 @@
     {
       "identificacion": "DEA-248/2026",
       "titulo": "ACUERDO MARCO I PARA EL SUMIN [...]",
-      "lugar": "",
+      "lugar": "07.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -359,7 +343,7 @@
     {
       "identificacion": "MLN-40/2026",
       "titulo": "ADAPTACIÓN DE LAS INSTALACION [...]",
-      "lugar": "",
+      "lugar": "31.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -373,7 +357,7 @@
     {
       "identificacion": "ALC-53/2023",
       "titulo": "ADAPTACIÓN DE OFICINAS EN N3- [...]",
-      "lugar": "",
+      "lugar": "27.07.2023 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -387,7 +371,7 @@
     {
       "identificacion": "BCN-185/2026",
       "titulo": "ADQUISICIÓN DE EQUIPOS DE CLI [...]",
-      "lugar": "",
+      "lugar": "18.09.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -401,7 +385,7 @@
     {
       "identificacion": "DSA-363/2026",
       "titulo": "ADQUISICIÓN DE FUENTES DE ALI [...]",
-      "lugar": "",
+      "lugar": "04.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -415,7 +399,7 @@
     {
       "identificacion": "DSA-359/2026",
       "titulo": "ADQUISICIÓN DE REPUESTOS PARA [...]",
-      "lugar": "",
+      "lugar": "04.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -429,7 +413,7 @@
     {
       "identificacion": "DSA-360/2026",
       "titulo": "ADQUISICIÓN DE REPUESTOS PARA [...]",
-      "lugar": "",
+      "lugar": "04.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -443,7 +427,7 @@
     {
       "identificacion": "LPA-56/2026",
       "titulo": "AMPLIACIÓN DEL SISTEMA DE ROC [...]",
-      "lugar": "",
+      "lugar": "07.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -455,9 +439,23 @@
       "coincidencias": []
     },
     {
+      "identificacion": "BIO-89/2026",
+      "titulo": "ANALÍTICA ANUAL DE CONTROL DE [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160603&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "MLN-44/2026",
       "titulo": "ARREGLO FILTRACIONES EDIFICIO [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -471,7 +469,7 @@
     {
       "identificacion": "AGP-9/2025",
       "titulo": "ASESORAMIENTO TÉCNICO EN MATE [...]",
-      "lugar": "",
+      "lugar": "10.02.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -485,7 +483,7 @@
     {
       "identificacion": "BCN-182/2026",
       "titulo": "ASISTENCIA TÉCNICA DE DIRECCI [...]",
-      "lugar": "",
+      "lugar": "13.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -499,7 +497,7 @@
     {
       "identificacion": "BCN-177/2026",
       "titulo": "ASISTENCIA TÉCNICA DE DIRECCI [...]",
-      "lugar": "",
+      "lugar": "07.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -513,7 +511,7 @@
     {
       "identificacion": "DIN-225/2026",
       "titulo": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
-      "lugar": "",
+      "lugar": "20.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -527,7 +525,7 @@
     {
       "identificacion": "DIN-237/2026",
       "titulo": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
-      "lugar": "",
+      "lugar": "20.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -541,7 +539,7 @@
     {
       "identificacion": "DIN-77/2026",
       "titulo": "ASISTENCIA TÉCNICA DE PM Y AT [...]",
-      "lugar": "",
+      "lugar": "19.06.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -555,7 +553,7 @@
     {
       "identificacion": "DIN-301/2025",
       "titulo": "AT DE PM Y ATDOCV DE LAS ACTU [...]",
-      "lugar": "",
+      "lugar": "31.10.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -569,7 +567,7 @@
     {
       "identificacion": "DIN-290/2025",
       "titulo": "AT DE PM Y ATDOCV DE LAS ACTU [...]",
-      "lugar": "",
+      "lugar": "30.10.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -583,7 +581,7 @@
     {
       "identificacion": "DIN-117/2026",
       "titulo": "AT DE PM Y REDAC PROYECTOS, D [...]",
-      "lugar": "",
+      "lugar": "21.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -597,7 +595,7 @@
     {
       "identificacion": "DIN-222/2026",
       "titulo": "AT DE PM Y REDACCIÓN DE PROYE [...]",
-      "lugar": "",
+      "lugar": "21.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -611,7 +609,7 @@
     {
       "identificacion": "MAD-24/2025",
       "titulo": "AUTOMATIZACION PUERTAS PREPAS [...]",
-      "lugar": "",
+      "lugar": "26.02.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -625,7 +623,7 @@
     {
       "identificacion": "LPA-50/2026",
       "titulo": "CONSTRUCCIÓN DE NUEVOS CENTRO [...]",
-      "lugar": "",
+      "lugar": "07.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -639,7 +637,7 @@
     {
       "identificacion": "FUE-77/2024",
       "titulo": "DEPENDENCIAS COMPLEMENTARIAS [...]",
-      "lugar": "",
+      "lugar": "07.10.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -653,7 +651,7 @@
     {
       "identificacion": "DDT-251/2026",
       "titulo": "DESARROLLO Y MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "04.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -667,7 +665,7 @@
     {
       "identificacion": "TFN-33/2024",
       "titulo": "DESMONTAJE DE TORRE DE ILUMIN [...]",
-      "lugar": "",
+      "lugar": "27.06.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -681,7 +679,7 @@
     {
       "identificacion": "PMI-57/2026",
       "titulo": "DETECCIÓN Y CORTE DEL SUMINIS [...]",
-      "lugar": "",
+      "lugar": "18.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -695,7 +693,7 @@
     {
       "identificacion": "FUE-79/2026",
       "titulo": "IMPERMEABILIZACIÓN DE LA CUBI [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -709,7 +707,7 @@
     {
       "identificacion": "MAH-87/2026",
       "titulo": "INSTALACIÓN CARGA DE BOTELLAS [...]",
-      "lugar": "",
+      "lugar": "09.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -723,7 +721,7 @@
     {
       "identificacion": "LCG-55/2023",
       "titulo": "INSTALACIÓN DE BOMBA DE CALOR [...]",
-      "lugar": "",
+      "lugar": "29.08.2023 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -737,7 +735,7 @@
     {
       "identificacion": "GRX-86/2026",
       "titulo": "LEVANTAMIENTO TOPOGRAFICO D E [...]",
-      "lugar": "",
+      "lugar": "22.09.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -751,7 +749,7 @@
     {
       "identificacion": "LPA-54/2026",
       "titulo": "MEJORA DEL CERRAMIENTO INTERI [...]",
-      "lugar": "",
+      "lugar": "07.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -765,7 +763,7 @@
     {
       "identificacion": "DDT-125/2026",
       "titulo": "Modernización del Ecosistema [...]",
-      "lugar": "",
+      "lugar": "02.06.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -779,7 +777,7 @@
     {
       "identificacion": "PMI-80/2026",
       "titulo": "NUEVA INSTALACION ELÉCTRICA E [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -793,7 +791,7 @@
     {
       "identificacion": "ODB-12/2025",
       "titulo": "NUEVA PSH EN PLATAFORMA B",
-      "lugar": "",
+      "lugar": "23.06.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -807,7 +805,7 @@
     {
       "identificacion": "SVQ-15/2026",
       "titulo": "NUEVO VIAL DE SALIDA DEL APAR [...]",
-      "lugar": "",
+      "lugar": "27.05.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -821,7 +819,7 @@
     {
       "identificacion": "DIN-324/2026",
       "titulo": "OBRA CIVIL ASOCIADA A LA INST [...]",
-      "lugar": "",
+      "lugar": "10.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -835,7 +833,7 @@
     {
       "identificacion": "ABC-15/2026",
       "titulo": "PAVIMENTACIÓN PARCELA ENTRE E [...]",
-      "lugar": "",
+      "lugar": "16.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -849,7 +847,7 @@
     {
       "identificacion": "MAD-120/2026",
       "titulo": "RECARGA Y SUMINISTRO DE TARJE [...]",
-      "lugar": "",
+      "lugar": "07.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -861,9 +859,23 @@
       "coincidencias": []
     },
     {
+      "identificacion": "REU-62/2026",
+      "titulo": "RECONFIGURACIÓN DE LA PLATAFO [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000294955&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "XRY-43/2024",
       "titulo": "RENOVACION ACERADO EDIFICIO T [...]",
-      "lugar": "",
+      "lugar": "27.06.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -877,7 +889,7 @@
     {
       "identificacion": "VGO-75/2026",
       "titulo": "RENOVACIÓN DE BATERÍAS PARA S [...]",
-      "lugar": "",
+      "lugar": "16.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -891,7 +903,7 @@
     {
       "identificacion": "DIN-319/2026",
       "titulo": "RENOVACIÓN DE ELEMENTOS DE PR [...]",
-      "lugar": "",
+      "lugar": "11.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -905,7 +917,7 @@
     {
       "identificacion": "BCN-155/2026",
       "titulo": "RENOVACIÓN DE ELEMENTOS DE SE [...]",
-      "lugar": "",
+      "lugar": "25.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -919,7 +931,7 @@
     {
       "identificacion": "DIN-184/2025",
       "titulo": "RENOVACIÓN DE ELEMENTOS ELECT [...]",
-      "lugar": "",
+      "lugar": "04.08.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -933,7 +945,7 @@
     {
       "identificacion": "DTC-144/2026",
       "titulo": "RENOVACIÓN TECNOLÓGICA DE LOS [...]",
-      "lugar": "",
+      "lugar": "14.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -947,7 +959,7 @@
     {
       "identificacion": "EAS-54/2026",
       "titulo": "REP. CAMION SEI H1-APTO SAN S [...]",
-      "lugar": "",
+      "lugar": "18.09.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -961,7 +973,7 @@
     {
       "identificacion": "MAH-116/2026",
       "titulo": "REPARACIÓN CUBIERTA NUEVO EDI [...]",
-      "lugar": "",
+      "lugar": "21.09.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -975,7 +987,7 @@
     {
       "identificacion": "FUE-93/2025",
       "titulo": "REPARACIÓN DE FAROLAS EN TERM [...]",
-      "lugar": "",
+      "lugar": "29.01.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -989,7 +1001,7 @@
     {
       "identificacion": "IBZ-116/2026",
       "titulo": "REPOSICION RED DE RIEGO EN PA [...]",
-      "lugar": "",
+      "lugar": "22.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1003,7 +1015,7 @@
     {
       "identificacion": "PMI-89/2026",
       "titulo": "REVISIÓN ANUAL LÍNEAS DE VIDA",
-      "lugar": "",
+      "lugar": "01.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1017,7 +1029,7 @@
     {
       "identificacion": "DTC-356/2025",
       "titulo": "SEGREGACIÓN DE ENTORNOS TECNO [...]",
-      "lugar": "",
+      "lugar": "28.11.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1031,7 +1043,7 @@
     {
       "identificacion": "DEA-276/2024",
       "titulo": "SERVICIO AGRUPADO DE ASISTENC [...]",
-      "lugar": "",
+      "lugar": "04.11.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1045,7 +1057,7 @@
     {
       "identificacion": "ALC-90/2026",
       "titulo": "Servicio de alquiler e instal [...]",
-      "lugar": "",
+      "lugar": "14.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1059,7 +1071,7 @@
     {
       "identificacion": "TFS-130/2023",
       "titulo": "SERVICIO DE AMBULANCIA DE SOP [...]",
-      "lugar": "",
+      "lugar": "03.11.2023 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1073,7 +1085,7 @@
     {
       "identificacion": "BCN-162/2026",
       "titulo": "SERVICIO DE ATCV PARA LA INTE [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1087,7 +1099,7 @@
     {
       "identificacion": "DCP-420/2026",
       "titulo": "SERVICIO DE COMUNICACIÓN EN L [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1101,7 +1113,7 @@
     {
       "identificacion": "ACE-23/2025",
       "titulo": "SERVICIO DE CONDUCCIÓN Y MANT [...]",
-      "lugar": "",
+      "lugar": "28.02.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1115,7 +1127,7 @@
     {
       "identificacion": "ACE-64/2026",
       "titulo": "SERVICIO DE CONTROL DE PASAPO [...]",
-      "lugar": "",
+      "lugar": "03.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1129,7 +1141,7 @@
     {
       "identificacion": "BCN-189/2026",
       "titulo": "SERVICIO DE CREACIÓN DE MATER [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1143,7 +1155,7 @@
     {
       "identificacion": "DIE-336/2024",
       "titulo": "SERVICIO DE ELABORACION DE ES [...]",
-      "lugar": "",
+      "lugar": "12.09.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1157,7 +1169,7 @@
     {
       "identificacion": "PMI-118/2024",
       "titulo": "SERVICIO DE GESTION OPERATIVA [...]",
-      "lugar": "",
+      "lugar": "14.10.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1171,7 +1183,7 @@
     {
       "identificacion": "PMI-71/2025",
       "titulo": "SERVICIO DE GESTIÓN Y MANTENI [...]",
-      "lugar": "",
+      "lugar": "11.07.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1185,7 +1197,7 @@
     {
       "identificacion": "BCN-108/2026",
       "titulo": "SERVICIO DE INFORMACIÓN Y ATE [...]",
-      "lugar": "",
+      "lugar": "03.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1199,7 +1211,7 @@
     {
       "identificacion": "ALC-26/2026",
       "titulo": "SERVICIO DE INFORMACIÓN Y ATE [...]",
-      "lugar": "",
+      "lugar": "10.03.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1211,23 +1223,9 @@
       "coincidencias": []
     },
     {
-      "identificacion": "FUE-75/2026",
-      "titulo": "SERVICIO DE JARDINERÍA EN EL [...]",
-      "lugar": "",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133770&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "SDR-57/2026",
       "titulo": "SERVICIO DE JARDINERÍA EN LAD [...]",
-      "lugar": "",
+      "lugar": "19.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1241,7 +1239,7 @@
     {
       "identificacion": "REU-48/2026",
       "titulo": "SERVICIO DE LIMPIEZA DE VIALE [...]",
-      "lugar": "",
+      "lugar": "29.05.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1255,7 +1253,7 @@
     {
       "identificacion": "BIO-82/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO ANU [...]",
-      "lugar": "",
+      "lugar": "08.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1269,7 +1267,7 @@
     {
       "identificacion": "BCN-146/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1283,7 +1281,7 @@
     {
       "identificacion": "VGO-63/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1297,7 +1295,7 @@
     {
       "identificacion": "RJL-41/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "14.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1311,7 +1309,7 @@
     {
       "identificacion": "PMI-32/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "03.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1325,7 +1323,7 @@
     {
       "identificacion": "BCN-149/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "03.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1339,7 +1337,7 @@
     {
       "identificacion": "IBZ-4/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "29.01.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1353,7 +1351,7 @@
     {
       "identificacion": "AGP-522/2025",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "02.12.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1367,7 +1365,7 @@
     {
       "identificacion": "ACE-24/2025",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "28.02.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1381,7 +1379,7 @@
     {
       "identificacion": "MAH-136/2024",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "24.09.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1395,7 +1393,7 @@
     {
       "identificacion": "ALC-40/2024",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "05.06.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1409,7 +1407,7 @@
     {
       "identificacion": "REU-32/2024",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "",
+      "lugar": "28.05.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1423,7 +1421,7 @@
     {
       "identificacion": "BCN-112/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DEL [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1437,7 +1435,7 @@
     {
       "identificacion": "BCN-150/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DEL [...]",
-      "lugar": "",
+      "lugar": "26.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1451,7 +1449,7 @@
     {
       "identificacion": "LEI-19/2025",
       "titulo": "SERVICIO DE MANTENIMIENTO DEL [...]",
-      "lugar": "",
+      "lugar": "29.07.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1465,7 +1463,7 @@
     {
       "identificacion": "BCN-109/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DEL [...]",
-      "lugar": "",
+      "lugar": "22.09.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1479,7 +1477,7 @@
     {
       "identificacion": "PMI-481/2023",
       "titulo": "SERVICIO DE MANTENIMIENTO INT [...]",
-      "lugar": "",
+      "lugar": "23.10.2023 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1493,7 +1491,7 @@
     {
       "identificacion": "MAH-39/2024",
       "titulo": "SERVICIO DE MANTENIMIENTO PCI [...]",
-      "lugar": "",
+      "lugar": "27.02.2024 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1507,7 +1505,7 @@
     {
       "identificacion": "LEI-18/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO SOF [...]",
-      "lugar": "",
+      "lugar": "10.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1519,23 +1517,9 @@
       "coincidencias": []
     },
     {
-      "identificacion": "MAH-109/2026",
-      "titulo": "SERVICIO DE MANTENIMIENTO Y C [...]",
-      "lugar": "",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133735&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "DIN-385/2026",
       "titulo": "SERVICIO DE OBTENCIÓN DE DATO [...]",
-      "lugar": "",
+      "lugar": "21.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1549,7 +1533,7 @@
     {
       "identificacion": "FUE-5/2025",
       "titulo": "SERVICIO DE PRIMEROS AUXILIOS [...]",
-      "lugar": "",
+      "lugar": "28.01.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1563,7 +1547,7 @@
     {
       "identificacion": "DIN-389/2026",
       "titulo": "SERVICIO DE PROJECT MANAGEMEN [...]",
-      "lugar": "",
+      "lugar": "25.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1577,7 +1561,7 @@
     {
       "identificacion": "TFN-22/2026",
       "titulo": "SERVICIO DE RETIRADA, GESTIÓN [...]",
-      "lugar": "",
+      "lugar": "02.06.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1591,7 +1575,7 @@
     {
       "identificacion": "SCQ-60/2026",
       "titulo": "SERVICIO DE REVISIÓN DEL INVE [...]",
-      "lugar": "",
+      "lugar": "18.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1605,7 +1589,7 @@
     {
       "identificacion": "AGP-143/2026",
       "titulo": "SERVICIO DE SEGUIMIENTO DE LA [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1619,7 +1603,7 @@
     {
       "identificacion": "TFS-70/2026",
       "titulo": "SERVICIO DE VERIFICACIÓN DE R [...]",
-      "lugar": "",
+      "lugar": "22.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1633,7 +1617,7 @@
     {
       "identificacion": "MLN-45/2026",
       "titulo": "SERVICIO DE VIGILANCIA Y CON [...]",
-      "lugar": "",
+      "lugar": "14.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1647,7 +1631,7 @@
     {
       "identificacion": "PMI-68/2026",
       "titulo": "SERVICIO ECOP AEROPUERTO DE P [...]",
-      "lugar": "",
+      "lugar": "01.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1661,7 +1645,7 @@
     {
       "identificacion": "DIE-411/2026",
       "titulo": "SERVICIO INTEGRAL DE GESTIÓN [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1673,9 +1657,23 @@
       "coincidencias": []
     },
     {
+      "identificacion": "PMI-96/2026",
+      "titulo": "SERVICIO MANTENIMIENTO APLICA [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9626211709&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DIN-321/2026",
       "titulo": "SERVICIO PARA LA INTERVENCIÓN [...]",
-      "lugar": "",
+      "lugar": "21.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1689,7 +1687,7 @@
     {
       "identificacion": "DIE-581/2025",
       "titulo": "SERVICIO PARA OBTENCCIÓN DE L [...]",
-      "lugar": "",
+      "lugar": "17.12.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1703,7 +1701,7 @@
     {
       "identificacion": "AGP-152/2026",
       "titulo": "SERVICIO TRANSITORIO III DE S [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1717,7 +1715,7 @@
     {
       "identificacion": "EAS-55/2026",
       "titulo": "SUM AYUDAS VISUALES-APTO SAN [...]",
-      "lugar": "",
+      "lugar": "22.09.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1731,7 +1729,7 @@
     {
       "identificacion": "TFS-38/2025",
       "titulo": "SUMINISTRO ABIERTO DE ATENCIO [...]",
-      "lugar": "",
+      "lugar": "23.07.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1745,7 +1743,7 @@
     {
       "identificacion": "MCV-33/2026",
       "titulo": "SUMINISTRO AGUA EMBOTELLADA-A [...]",
-      "lugar": "",
+      "lugar": "14.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1757,9 +1755,23 @@
       "coincidencias": []
     },
     {
+      "identificacion": "VIT-27/2026",
+      "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295816&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DIN-395/2026",
       "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
-      "lugar": "",
+      "lugar": "10.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1773,7 +1785,7 @@
     {
       "identificacion": "BCN-174/2026",
       "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
-      "lugar": "",
+      "lugar": "01.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1785,23 +1797,9 @@
       "coincidencias": []
     },
     {
-      "identificacion": "BCN-156/2026",
-      "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
-      "lugar": "",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9620149120&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "LCG-29/2026",
       "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
-      "lugar": "",
+      "lugar": "10.06.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1815,7 +1813,7 @@
     {
       "identificacion": "BIO-104/2023",
       "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
-      "lugar": "",
+      "lugar": "07.07.2023 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1829,7 +1827,7 @@
     {
       "identificacion": "JCU-368/2026",
       "titulo": "SUMINISTRO DE AGUA EMBOTELLAD [...]",
-      "lugar": "",
+      "lugar": "07.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1843,7 +1841,7 @@
     {
       "identificacion": "FUE-76/2026",
       "titulo": "SUMINISTRO DE CATERING PARA E [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1857,7 +1855,7 @@
     {
       "identificacion": "MAD-155/2026",
       "titulo": "SUMINISTRO DE ELEMENTOS PARA [...]",
-      "lugar": "",
+      "lugar": "04.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1871,7 +1869,7 @@
     {
       "identificacion": "FUE-78/2026",
       "titulo": "SUMINISTRO DE EQUIPOS DE MEDI [...]",
-      "lugar": "",
+      "lugar": "21.09.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1883,9 +1881,23 @@
       "coincidencias": []
     },
     {
+      "identificacion": "BCN-154/2026",
+      "titulo": "SUMINISTRO DE MATERIAL PARA E [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9620149117&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DRH-367/2026",
       "titulo": "SUMINISTRO DE MATERIAL PROMOC [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1899,7 +1911,7 @@
     {
       "identificacion": "GRO-51/2026",
       "titulo": "SUMINISTRO DE MATERIAL VARIO [...]",
-      "lugar": "",
+      "lugar": "18.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1913,7 +1925,7 @@
     {
       "identificacion": "ZAZ-11/2026",
       "titulo": "SUMINISTRO DE MATERIAL Y CONS [...]",
-      "lugar": "",
+      "lugar": "29.04.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1925,23 +1937,9 @@
       "coincidencias": []
     },
     {
-      "identificacion": "DTC-215/2026",
-      "titulo": "SUMINISTRO DE PANELES LED PAR [...]",
-      "lugar": "",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610177832&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "SCQ-56/2026",
       "titulo": "SUMINISTRO DE PRODUCTOS QUÍMI [...]",
-      "lugar": "",
+      "lugar": "21.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1953,9 +1951,23 @@
       "coincidencias": []
     },
     {
+      "identificacion": "MAD-158/2026",
+      "titulo": "SUMINISTRO DE REPUESTOS DE BA [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9700112083&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "TFN-48/2026",
       "titulo": "SUMINISTRO DE TORRES PORTATIL [...]",
-      "lugar": "",
+      "lugar": "21.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1969,7 +1981,7 @@
     {
       "identificacion": "LCG-45/2026",
       "titulo": "SUMINISTRO E INSTALACION DE N [...]",
-      "lugar": "",
+      "lugar": "16.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1983,7 +1995,7 @@
     {
       "identificacion": "GRX-83/2026",
       "titulo": "SUMINISTRO E INSTALACIÓN DE D [...]",
-      "lugar": "",
+      "lugar": "11.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -1997,7 +2009,7 @@
     {
       "identificacion": "ALC-79/2026",
       "titulo": "SUMINISTRO E INSTALACIÓN DE E [...]",
-      "lugar": "",
+      "lugar": "17.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2011,7 +2023,7 @@
     {
       "identificacion": "FUE-71/2026",
       "titulo": "SUMINISTRO E INSTALACIÓN DE N [...]",
-      "lugar": "",
+      "lugar": "15.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2025,7 +2037,7 @@
     {
       "identificacion": "MAD-168/2026",
       "titulo": "SUMINISTRO E INSTALACIÓN DE N [...]",
-      "lugar": "",
+      "lugar": "04.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2037,9 +2049,37 @@
       "coincidencias": []
     },
     {
+      "identificacion": "AGP-136/2026",
+      "titulo": "SUMINISTRO E INSTALACIÓN DE P [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9624665859&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "SPC-69/2026",
+      "titulo": "SUMINISTRO E INSTALACIÓN DE P [...]",
+      "lugar": "23.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295829&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DSA-74/2026",
       "titulo": "SUMINISTRO EN ESTADO OPERATIV [...]",
-      "lugar": "",
+      "lugar": "11.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2053,7 +2093,7 @@
     {
       "identificacion": "DIE-245/2026",
       "titulo": "SUMINISTRO EN ESTADO OPERATIV [...]",
-      "lugar": "",
+      "lugar": "24.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2067,7 +2107,7 @@
     {
       "identificacion": "DIE-254/2026",
       "titulo": "SUMINISTRO EN ESTADO OPERATIV [...]",
-      "lugar": "",
+      "lugar": "24.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2081,7 +2121,7 @@
     {
       "identificacion": "DDT-163/2026",
       "titulo": "SUMINISTRO EN ESTADO OPERATIV [...]",
-      "lugar": "",
+      "lugar": "27.07.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2095,7 +2135,7 @@
     {
       "identificacion": "DIE-393/2026",
       "titulo": "SUMINISTRO ESTADO OPERATIVO S [...]",
-      "lugar": "",
+      "lugar": "11.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2109,7 +2149,7 @@
     {
       "identificacion": "LEI-9/2025",
       "titulo": "SUMINISTRO PARA EQUIPOS DE RE [...]",
-      "lugar": "",
+      "lugar": "01.04.2025 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2123,7 +2163,7 @@
     {
       "identificacion": "FUE-45/2026",
       "titulo": "SUMINISTRO Y SUSTITUCIÓN DE D [...]",
-      "lugar": "",
+      "lugar": "07.07.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2137,7 +2177,7 @@
     {
       "identificacion": "MAD-166/2026",
       "titulo": "SUMINISTRO, INSTALACIÓN E INT [...]",
-      "lugar": "",
+      "lugar": "02.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2151,7 +2191,7 @@
     {
       "identificacion": "BCN-173/2026",
       "titulo": "SUSTITUCIÓN CAPOTAS DE ESCALE [...]",
-      "lugar": "",
+      "lugar": "25.08.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2165,7 +2205,7 @@
     {
       "identificacion": "BCN-128/2026",
       "titulo": "SUSTITUCIÓN DE BOMBA DE CALOR [...]",
-      "lugar": "",
+      "lugar": "16.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2179,7 +2219,7 @@
     {
       "identificacion": "DIN-343/2026",
       "titulo": "SUSTITUCIÓN DE CLIMATIZACIÓN [...]",
-      "lugar": "",
+      "lugar": "10.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2193,7 +2233,7 @@
     {
       "identificacion": "VLC-75/2026",
       "titulo": "SUSTITUCIÓN DE PERSIANAS AUTO [...]",
-      "lugar": "",
+      "lugar": "09.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2207,7 +2247,7 @@
     {
       "identificacion": "VLC-44/2026",
       "titulo": "SUSTITUCIÓN DE PERSIANAS AUTO [...]",
-      "lugar": "",
+      "lugar": "22.05.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2221,7 +2261,7 @@
     {
       "identificacion": "SVQ-45/2026",
       "titulo": "SUSTITUCIÓN PROTECTORES SOLAR [...]",
-      "lugar": "",
+      "lugar": "07.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
@@ -2235,7 +2275,7 @@
     {
       "identificacion": "ALC-73/2026",
       "titulo": "VALORACIÓN DEL ESTADO DEL ARB [...]",
-      "lugar": "",
+      "lugar": "18.09.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
