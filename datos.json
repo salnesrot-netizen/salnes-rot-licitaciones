@@ -1,10 +1,10 @@
 {
-  "actualizado": "23/09/2026 07:17",
+  "actualizado": "24/09/2026 07:17",
   "fuente": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
-  "total": 161,
-  "recomendadas": 11,
+  "total": 167,
+  "recomendadas": 12,
   "prioridad_alta": 1,
-  "prioridad_media": 10,
+  "prioridad_media": 11,
   "elementos": [
     {
       "identificacion": "IBZ-106/2026",
@@ -48,6 +48,22 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160581&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": true,
+      "prioridad": "MEDIA",
+      "puntuacion": 30,
+      "coincidencias": [
+        "adecuacion"
+      ]
+    },
+    {
+      "identificacion": "DIN-373/2026",
+      "titulo": "ADECUACIÓN A NUEVA NORMATIVA [...]",
+      "lugar": "24.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179042&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": true,
       "prioridad": "MEDIA",
@@ -425,6 +441,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "DIN-370/2026",
+      "titulo": "AMPLIACION DEL EDIFICIO DE SE [...]",
+      "lugar": "24.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179001&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "LPA-56/2026",
       "titulo": "AMPLIACIÓN DEL SISTEMA DE ROC [...]",
       "lugar": "07.09.2026 ( web )",
@@ -649,6 +679,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "MAD-170/2026",
+      "titulo": "DESARROLLO DE NUEVAS FUNCIONA [...]",
+      "lugar": "24.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9700112223&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DDT-251/2026",
       "titulo": "DESARROLLO Y MANTENIMIENTO DE [...]",
       "lugar": "04.08.2026 ( web )",
@@ -747,6 +791,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "IBZ-99/2026",
+      "titulo": "MANTENIMIENTO DEL SISTEMA AUT [...]",
+      "lugar": "24.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133731&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "LPA-54/2026",
       "titulo": "MEJORA DEL CERRAMIENTO INTERI [...]",
       "lugar": "07.09.2026 ( web )",
@@ -796,6 +854,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=2100401608&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "GRX-89/2026",
+      "titulo": "NUEVA ZONA PARA SERVICIO Y EX [...]",
+      "lugar": "24.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295871&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1020,6 +1092,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9626208522&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "VLC-82/2026",
+      "titulo": "REVISIÓN, ACTUALIZACIÓN Y/O C [...]",
+      "lugar": "24.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160742&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1699,20 +1785,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "AGP-152/2026",
-      "titulo": "SERVICIO TRANSITORIO III DE S [...]",
-      "lugar": "15.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9624665992&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "EAS-55/2026",
       "titulo": "SUM AYUDAS VISUALES-APTO SAN [...]",
       "lugar": "22.09.2026",
@@ -2266,6 +2338,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160164&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "GRX-90/2026",
+      "titulo": "VALLADO PERIMETRAL TERMINAL-O [...]",
+      "lugar": "24.09.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295910&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
