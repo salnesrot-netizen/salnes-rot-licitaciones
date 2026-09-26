@@ -1,7 +1,7 @@
 {
-  "actualizado": "25/09/2026 07:17",
+  "actualizado": "26/09/2026 07:15",
   "fuente": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
-  "total": 167,
+  "total": 155,
   "recomendadas": 11,
   "prioridad_alta": 1,
   "prioridad_media": 10,
@@ -361,7 +361,7 @@
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=BCN 185/2026&consultaEstado=400&idExp=7",
+      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=BCN 185/2026&consultaEstado=400&idExp=6",
       "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -663,20 +663,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "DDT-251/2026",
-      "titulo": "DESARROLLO Y MANTENIMIENTO DE [...]",
-      "lugar": "04.08.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610178622&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "TFN-33/2024",
       "titulo": "DESMONTAJE DE TORRE DE ILUMIN [...]",
       "lugar": "27.06.2024 ( web )",
@@ -887,20 +873,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "ABC-15/2026",
-      "titulo": "PAVIMENTACIÓN PARCELA ENTRE E [...]",
-      "lugar": "16.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=2100409876&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "MAD-120/2026",
       "titulo": "RECARGA Y SUMINISTRO DE TARJE [...]",
       "lugar": "07.09.2026 ( web )",
@@ -971,20 +943,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "BCN-155/2026",
-      "titulo": "RENOVACIÓN DE ELEMENTOS DE SE [...]",
-      "lugar": "25.08.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9620149118&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "DIN-184/2025",
       "titulo": "RENOVACIÓN DE ELEMENTOS ELECT [...]",
       "lugar": "04.08.2025 ( web )",
@@ -1048,20 +1006,6 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133830&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "PMI-89/2026",
-      "titulo": "REVISIÓN ANUAL LÍNEAS DE VIDA",
-      "lugar": "01.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9626208522&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1146,20 +1090,6 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9620149137&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "DCP-420/2026",
-      "titulo": "SERVICIO DE COMUNICACIÓN EN L [...]",
-      "lugar": "15.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179541&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1825,20 +1755,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "BCN-174/2026",
-      "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
-      "lugar": "01.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9620149195&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "LCG-29/2026",
       "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
       "lugar": "10.06.2026 ( web )",
@@ -1867,34 +1783,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "JCU-368/2026",
-      "titulo": "SUMINISTRO DE AGUA EMBOTELLAD [...]",
-      "lugar": "07.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610178960&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "FUE-76/2026",
-      "titulo": "SUMINISTRO DE CATERING PARA E [...]",
-      "lugar": "15.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133772&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "MAD-155/2026",
       "titulo": "SUMINISTRO DE ELEMENTOS PARA [...]",
       "lugar": "04.08.2026 ( web )",
@@ -1903,20 +1791,6 @@
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9700112066&tipoexp=400",
       "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "FUE-78/2026",
-      "titulo": "SUMINISTRO DE EQUIPOS DE MEDI [...]",
-      "lugar": "21.09.2026",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=FUE 78/2026&consultaEstado=400&idExp=6",
-      "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
       "puntuacion": 0,
@@ -2091,20 +1965,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "FUE-71/2026",
-      "titulo": "SUMINISTRO E INSTALACIÓN DE N [...]",
-      "lugar": "15.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632133667&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "MAD-168/2026",
       "titulo": "SUMINISTRO E INSTALACIÓN DE N [...]",
       "lugar": "04.09.2026 ( web )",
@@ -2259,20 +2119,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "BCN-173/2026",
-      "titulo": "SUSTITUCIÓN CAPOTAS DE ESCALE [...]",
-      "lugar": "25.08.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9620149194&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "BCN-128/2026",
       "titulo": "SUSTITUCIÓN DE BOMBA DE CALOR [...]",
       "lugar": "16.09.2026 ( web )",
@@ -2294,20 +2140,6 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179141&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "VLC-75/2026",
-      "titulo": "SUSTITUCIÓN DE PERSIANAS AUTO [...]",
-      "lugar": "09.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160201&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
