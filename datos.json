@@ -1,10 +1,10 @@
 {
-  "actualizado": "09/10/2026 07:19",
+  "actualizado": "10/10/2026 07:17",
   "fuente": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
-  "total": 148,
-  "recomendadas": 11,
+  "total": 145,
+  "recomendadas": 12,
   "prioridad_alta": 0,
-  "prioridad_media": 11,
+  "prioridad_media": 12,
   "elementos": [
     {
       "identificacion": "VLL-21/2026",
@@ -184,6 +184,22 @@
       ]
     },
     {
+      "identificacion": "DIN-328/2025",
+      "titulo": "REMODELACIÓN DEL SISTEMA DE C [...]",
+      "lugar": "29.09.2025 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610172915&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": true,
+      "prioridad": "MEDIA",
+      "puntuacion": 25,
+      "coincidencias": [
+        "remodelacion"
+      ]
+    },
+    {
       "identificacion": "ALC-96/2026",
       "titulo": "EQUIPAMIENTO DE CCTV Y CONTRO [...]",
       "lugar": "28.09.2026 ( web )",
@@ -200,29 +216,13 @@
       ]
     },
     {
-      "identificacion": "DSA-435/2026",
-      "titulo": "SUMINISTRO DE EQUIPAMIENTO PA [...]",
-      "lugar": "05.10.2026",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=DSA 435/2026&consultaEstado=400&idExp=3",
-      "fuente": "AENA Menor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 15,
-      "coincidencias": [
-        "equipamiento"
-      ]
-    },
-    {
       "identificacion": "OVD-37/2026",
       "titulo": "SUMINISTRO DE EQUIPAMIENTO PA [...]",
       "lugar": "05.10.2026",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=OVD 37/2026&consultaEstado=400&idExp=6",
+      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=OVD 37/2026&consultaEstado=400&idExp=5",
       "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -282,20 +282,6 @@
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610153108&tipoexp=400",
       "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "OVD-42/2026",
-      "titulo": "ACTUACIÓN INSPECCIÓN ASCENSOR [...]",
-      "lugar": "05.10.2026",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=OVD 42/2026&consultaEstado=400&idExp=7",
-      "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
       "puntuacion": 0,
@@ -862,20 +848,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "DIN-324/2026",
-      "titulo": "OBRA CIVIL ASOCIADA A LA INST [...]",
-      "lugar": "10.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179144&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "REU-62/2026",
       "titulo": "RECONFIGURACIÓN DE LA PLATAFO [...]",
       "lugar": "23.09.2026 ( web )",
@@ -883,6 +855,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000294955&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "DIN-413/2026",
+      "titulo": "RECRECIDO Y RANURADO DE PISTA [...]",
+      "lugar": "09.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610180025&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1134,22 +1120,8 @@
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=MLN 50/2026&consultaEstado=400&idExp=8",
+      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=MLN 50/2026&consultaEstado=400&idExp=6",
       "fuente": "AENA Menor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "VLC-82/2026",
-      "titulo": "REVISIÓN, ACTUALIZACIÓN Y/O C [...]",
-      "lugar": "24.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160742&tipoexp=400",
-      "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
       "puntuacion": 0,
@@ -1800,20 +1772,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "DIN-395/2026",
-      "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
-      "lugar": "10.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179340&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "LCG-29/2026",
       "titulo": "SUMINISTRO CON INSTALACIÓN DE [...]",
       "lugar": "10.06.2026 ( web )",
@@ -1848,7 +1806,7 @@
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=OVD 38/2026&consultaEstado=400&idExp=5",
+      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=OVD 38/2026&consultaEstado=400&idExp=4",
       "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1862,7 +1820,7 @@
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=BCN 195/2026&consultaEstado=400&idExp=4",
+      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=BCN 195/2026&consultaEstado=400&idExp=3",
       "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
