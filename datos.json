@@ -1,10 +1,10 @@
 {
-  "actualizado": "22/10/2026 07:42",
+  "actualizado": "23/10/2026 07:40",
   "fuente": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
-  "total": 158,
-  "recomendadas": 13,
+  "total": 160,
+  "recomendadas": 10,
   "prioridad_alta": 1,
-  "prioridad_media": 12,
+  "prioridad_media": 9,
   "elementos": [
     {
       "identificacion": "DEA-466/2026",
@@ -20,22 +20,6 @@
       "puntuacion": 95,
       "coincidencias": [
         "senalizacion"
-      ]
-    },
-    {
-      "identificacion": "VLL-21/2026",
-      "titulo": "DECORACIÓN NAVIDEÑA",
-      "lugar": "06.10.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=2100410759&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": true,
-      "prioridad": "MEDIA",
-      "puntuacion": 35,
-      "coincidencias": [
-        "decoracion"
       ]
     },
     {
@@ -135,22 +119,6 @@
       ]
     },
     {
-      "identificacion": "GRX-67/2026",
-      "titulo": "REFORMA DE LOCALES PARA NUEVO [...]",
-      "lugar": "22.09.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000295859&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": true,
-      "prioridad": "MEDIA",
-      "puntuacion": 25,
-      "coincidencias": [
-        "reforma"
-      ]
-    },
-    {
       "identificacion": "VGO-88/2026",
       "titulo": "REFORMA Y AMPLIACIÓN DE LAS D [...]",
       "lugar": "14.10.2026 ( web )",
@@ -196,22 +164,6 @@
       "puntuacion": 25,
       "coincidencias": [
         "remodelacion"
-      ]
-    },
-    {
-      "identificacion": "LEI-33/2026",
-      "titulo": "SUMINISTRO DE MOBILIARIO PARA [...]",
-      "lugar": "15.10.2026",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=LEI 33/2026&consultaEstado=400&idExp=13",
-      "fuente": "AENA Menor",
-      "recomendada": true,
-      "prioridad": "MEDIA",
-      "puntuacion": 20,
-      "coincidencias": [
-        "mobiliario"
       ]
     },
     {
@@ -334,6 +286,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610173623&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "AGP-156/2026",
+      "titulo": "ASESORAMIENTO TÉCNICO EN MATE [...]",
+      "lugar": "23.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9624666053&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -559,20 +525,6 @@
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610180610&tipoexp=400",
       "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "MAH-121/2026",
-      "titulo": "ELEMENTOS PARA MÁSTIL DE BAND [...]",
-      "lugar": "15.10.2026",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=MAH 121/2026&consultaEstado=400&idExp=14",
-      "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
       "puntuacion": 0,
@@ -824,6 +776,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631158821&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "GRO-62/2026",
+      "titulo": "PARKING FBO Y OTRAS OBRAS MEN [...]",
+      "lugar": "23.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000296218&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1103,7 +1069,7 @@
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=MLN 50/2026&consultaEstado=400&idExp=0",
+      "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=MLN 50/2026&consultaEstado=400&idExp=13",
       "fuente": "AENA Menor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1419,6 +1385,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "PNA-46/2026",
+      "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
+      "lugar": "23.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=2100411095&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "IBZ-4/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
       "lugar": "29.01.2026 ( web )",
@@ -1496,6 +1476,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000281808&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "AGP-159/2026",
+      "titulo": "SERVICIO DE MANTENIMIENTO DEL [...]",
+      "lugar": "23.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9624666076&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1965,6 +1959,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "VGO-94/2026",
+      "titulo": "SUMINISTRO DE MATERIAL DE FER [...]",
+      "lugar": "23.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000296212&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "MAH-98/2026",
       "titulo": "Suministro de material eléctr [...]",
       "lugar": "09.10.2026 ( web )",
@@ -2049,20 +2057,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "VLC-79/2026",
-      "titulo": "SUMINISTRO E INSTALACIÓN DE C [...]",
-      "lugar": "13.10.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631160741&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "FUE-77/2026",
       "titulo": "SUMINISTRO E INSTALACIÓN DE C [...]",
       "lugar": "22.10.2026",
@@ -2099,6 +2093,20 @@
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=LEI 35/2026&consultaEstado=400&idExp=12",
       "fuente": "AENA Menor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "MAD-201/2026",
+      "titulo": "SUMINISTRO E INSTALACIÓN DE L [...]",
+      "lugar": "23.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9700112369&tipoexp=400",
+      "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
       "puntuacion": 0,
@@ -2182,6 +2190,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9624666137&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "VGO-93/2026",
+      "titulo": "SUMINISTRO MATERIAL ELÉCTRICO [...]",
+      "lugar": "23.10.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000296210&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
