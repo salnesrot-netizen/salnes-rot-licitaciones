@@ -1,7 +1,7 @@
 {
-  "actualizado": "26/11/2026 17:39",
+  "actualizado": "27/11/2026 17:21",
   "fuente": "https://contratacion.aena.es/contratacion/principal?portal=licitaciones",
-  "total": 112,
+  "total": 116,
   "recomendadas": 5,
   "prioridad_alta": 0,
   "prioridad_media": 5,
@@ -124,6 +124,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632134226&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "BIO-116/2026",
+      "titulo": "A.T. REDACCIÓN DE PROYECTOS D [...]",
+      "lugar": "27.11.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631161523&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -313,6 +327,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "DIN-386/2026",
+      "titulo": "ACTUACIONES EN CALLES DE RODA [...]",
+      "lugar": "27.11.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610179534&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DIN-442/2026",
       "titulo": "ACTUACIONES EN PAVIMENTO EN R [...]",
       "lugar": "15.10.2026 ( web )",
@@ -481,20 +509,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "AGP-171/2026",
-      "titulo": "ASISTENCIA TÉCNICA PARA LA CO [...]",
-      "lugar": "16.11.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9624666157&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "DIN-289/2026",
       "titulo": "ATRP Y ATA ADAPTACIÓN DEL EDI [...]",
       "lugar": "29.10.2026 ( web )",
@@ -593,6 +607,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "DIN-323/2026",
+      "titulo": "ELECTRIFICACIÓN DEL SERVICIO [...]",
+      "lugar": "27.11.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610178785&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DTC-445/2026",
       "titulo": "HERRAMIENTA PARA AUTOMATIZACI [...]",
       "lugar": "16.11.2026 ( web )",
@@ -663,6 +691,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "SVQ-63/2026",
+      "titulo": "Mantenimiento de Aplicativo G [...]",
+      "lugar": "27.11.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631161582&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "XRY-86/2026",
       "titulo": "MEJORA DE LA EFICIENCIA DEL C [...]",
       "lugar": "24.11.2026 ( web )",
@@ -670,6 +712,20 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000296637&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "SVQ-60/2026",
+      "titulo": "MODERNIZACIÓN DE CLIMATIZACIÓ [...]",
+      "lugar": "27.11.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631161463&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -929,6 +985,20 @@
       "coincidencias": []
     },
     {
+      "identificacion": "SVQ-58/2026",
+      "titulo": "REPARACIONES EN ACCESOS Y EDI [...]",
+      "lugar": "27.11.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631161321&tipoexp=400",
+      "fuente": "AENA Mayor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
       "identificacion": "DSA-301/2026",
       "titulo": "REPARACIÓN DE EQUIPOS, MÓDULO [...]",
       "lugar": "24.11.2026 ( web )",
@@ -1006,20 +1076,6 @@
       "estimado": "",
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9610181010&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
-      "identificacion": "FUE-89/2026",
-      "titulo": "SERVICIO DE CONTROL DE PASAPO [...]",
-      "lugar": "06.11.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9632134048&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1153,20 +1209,6 @@
       "coincidencias": []
     },
     {
-      "identificacion": "PMI-74/2026",
-      "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
-      "lugar": "12.11.2026 ( web )",
-      "cantidad": "",
-      "estimado": "",
-      "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9626211384&tipoexp=400",
-      "fuente": "AENA Mayor",
-      "recomendada": false,
-      "prioridad": "BAJA",
-      "puntuacion": 0,
-      "coincidencias": []
-    },
-    {
       "identificacion": "DEA-417/2026",
       "titulo": "SERVICIO DE MANTENIMIENTO DE [...]",
       "lugar": "04.11.2026 ( web )",
@@ -1293,13 +1335,13 @@
       "coincidencias": []
     },
     {
-      "identificacion": "ZAZ-35/2026",
-      "titulo": "SERVICIO DE VERIFICACIÓN Y MA [...]",
-      "lugar": "17.11.2026 ( web )",
+      "identificacion": "AGP-174/2026",
+      "titulo": "SERVICIO TRANSITORIO DE INFOR [...]",
+      "lugar": "27.11.2026 ( web )",
       "cantidad": "",
       "estimado": "",
       "fecha_limite": "",
-      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=4000296411&tipoexp=400",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9624666173&tipoexp=400",
       "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
@@ -1441,6 +1483,20 @@
       "fecha_limite": "",
       "url": "https://contratacion.aena.es/contratacion/ecompras/pedidos/pedidos?accion=LIST&codexp=BIO 109/2026&consultaEstado=400&idExp=7",
       "fuente": "AENA Menor",
+      "recomendada": false,
+      "prioridad": "BAJA",
+      "puntuacion": 0,
+      "coincidencias": []
+    },
+    {
+      "identificacion": "SVQ-55/2026",
+      "titulo": "SUMINISTRO DE POSTES DE SEPAR [...]",
+      "lugar": "27.11.2026 ( web )",
+      "cantidad": "",
+      "estimado": "",
+      "fecha_limite": "",
+      "url": "https://contratacion.aena.es/contratacion/principal?portal=infoexp&idexp=9631161382&tipoexp=400",
+      "fuente": "AENA Mayor",
       "recomendada": false,
       "prioridad": "BAJA",
       "puntuacion": 0,
